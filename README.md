@@ -10,3 +10,4 @@ https://github.com/Threespot/github-issue-template-test/issues/new?title=Issue%2
 ```
 
 [Issue Template Form](http://issuetemplate.com/#/Threespot/github-issue-template-test/FE%20Bug%20-%20test) 
+supports tags (but they aren't populated automatically :/)
